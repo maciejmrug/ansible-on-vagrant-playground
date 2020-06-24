@@ -1,0 +1,4 @@
+.vagrant
+ssh_keys/*
+!ssh_keys/.gitkeep
+*.log
